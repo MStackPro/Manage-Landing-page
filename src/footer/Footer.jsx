@@ -1,4 +1,4 @@
-import React from "react";
+
 import FooterLogo from '../assets/logo-white.svg'
 import { FaFacebookSquare } from "react-icons/fa";
 import { TiSocialYoutube } from "react-icons/ti";
